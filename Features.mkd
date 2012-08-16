@@ -83,7 +83,7 @@
             B         Delete all matched tabs. (same as b)
 
             <M-d>     Close current tab and select last selected tab.
-            D         Close current tab and select left tab
+            d         Close current tab and select left tab
             dc        Close current tab and select right tab.
             dm        Close matched tabs. 
             do        Close other tabs except current one.
